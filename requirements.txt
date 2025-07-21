@@ -3,3 +3,6 @@ mediapipe
 pyttsx3
 numpy
 scikit-learn
+pandas
+tensorflow
+joblib
